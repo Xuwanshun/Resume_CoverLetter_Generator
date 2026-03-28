@@ -1,0 +1,19 @@
+[
+  {
+    "id": "proj_001",
+    "title": "LLM Resume Assistant",
+    "role": "Independent Developer",
+    "dates": "2025",
+    "summary": "Built a pipeline to parse job posts and generate tailored resumes and cover letters.",
+    "skills": ["Python", "FastAPI", "OpenAI API", "Prompt Engineering"],
+    "keywords": ["resume generation", "job matching", "automation"],
+    "impact": ["Reduced manual tailoring time significantly"],
+    "links": {
+      "github": "https://github.com/example/project"
+    },
+    "resume_bullets": [
+      "Built an automated pipeline for job parsing and tailored application document generation.",
+      "Integrated structured job extraction and project relevance selection for targeted resume customization."
+    ]
+  }
+]

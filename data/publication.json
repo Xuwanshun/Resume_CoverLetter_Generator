@@ -1,0 +1,14 @@
+[
+  {
+    "id": "pub_001",
+    "title": "A Study on ...",
+    "year": "2024",
+    "authors": ["Your Name", "Coauthor"],
+    "venue": "Conference X",
+    "summary": "Research on ...",
+    "keywords": ["machine learning", "graph learning"],
+    "links": {
+      "paper": "https://..."
+    }
+  }
+]
